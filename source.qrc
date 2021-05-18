@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>UI/company.png</file>
+    <file>UI/DaSE.png</file>
+    <file>UI/ECNU.png</file>
+  </qresource>
+</RCC>
